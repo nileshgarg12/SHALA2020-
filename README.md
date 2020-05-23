@@ -1,4 +1,4 @@
 # SHALA2020-
-assignment of shala website - https://shala2020.github.io/#schedule
+Assignment and Notebook of shala website -directly go to https://shala2020.github.io/#schedule
 
 ML assignment
